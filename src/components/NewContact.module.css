@@ -1,0 +1,28 @@
+.form {
+  padding: 20px;
+}
+
+.form input {
+  width: calc(100% - 150px);
+  font: inherit;
+  padding: 10px;
+  background-color: #ebecee;
+  border: none;
+  text-indent: 25px;
+  border-radius: 0;
+  margin-right: 10px;
+  background-image: url(../assets/search.svg);
+  background-position: 12px 12px;
+  background-repeat: no-repeat;
+}
+
+.form button {
+  font: inherit;
+  border: 1px solid #49cc99;
+  color: #49cc99;
+  padding: 0.5rem 1.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+  width: 120px;
+  background: transparent;
+}

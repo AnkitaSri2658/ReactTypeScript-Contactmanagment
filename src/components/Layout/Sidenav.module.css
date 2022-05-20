@@ -1,0 +1,36 @@
+.sidenav {
+  background-color: #2a2b4a;
+  height: 100%;
+  width: 175px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s;
+}
+.logo {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid #151d33;
+}
+.sidenav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sidenav li {
+  padding: 20px 10px;
+  color: #abaeb9;
+  font-size: 14px;
+  font-weight: bold;
+}
+.sidenav li img {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.sidenav li.active {
+  background-color: #233456;
+  color: #fff;
+}

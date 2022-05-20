@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Group_2" data-name="Group 2" transform="translate(1 1)">
+    <circle id="Oval" cx="10" cy="10" r="10" fill="#13293f" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="9.231" height="7.692" rx="2" transform="translate(5.385 7.692)" fill="#e9c83b"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M4.615,4.615V3.077H6.154V4.615ZM0,4.615V3.077a3.077,3.077,0,0,1,6.154,0H4.615a1.539,1.539,0,1,0-3.077,0V4.615Z" transform="translate(6.923 3.077)" fill="#dfa039"/>
+    <rect id="Rectangle_8_Copy_2" data-name="Rectangle 8 Copy 2" width="1.538" height="3.077" rx="0.769" transform="translate(9.231 10)" fill="#12293f"/>
+  </g>
+</svg>
